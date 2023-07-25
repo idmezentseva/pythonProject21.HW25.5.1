@@ -1,2 +1,2 @@
-valid_email = 'idmezentseva@mail.ru'
-valid_password = 'Respect54'
+valid_email = 'своя почта'
+valid_password = 'свой пароль'
